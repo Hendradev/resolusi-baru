@@ -2,3 +2,4 @@ Resolusi Baru
 - Mempelajari tentang Android Kotlin
 - Mempelajari tentang Laravel
 - Mempelajari tentang API
+- Mempelajari docker
